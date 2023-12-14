@@ -1,6 +1,7 @@
 * {
   font-family: 'Raleway', sans-serif;
 }
+
 body {
   margin: 6px 15px;
 }
@@ -10,24 +11,26 @@ body {
 }
 
 .nav-bar {
-border-top: 1px solid #7E8B8C;
-display: flex;
-justify-content: space-between;
-padding: 5px;
-background-color: #92E0E5;
+  border-top: 1px solid #7E8B8C;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  background-color: #92E0E5;
 }
+
 .little-doggo-icon {
   margin-left: 13px;
 }
-.nav-texts{
+
+.nav-texts {
   display: flex;
   margin-right: 10px;
   font-size: 12px
 }
 
 .nav-text {
-color: #FFFFFF;
-margin: 5px 7px;
+  color: #FFFFFF;
+  margin: 5px 7px;
 
 }
 
@@ -45,6 +48,7 @@ margin: 5px 7px;
 .top-title {
   font-size: 20px;
 }
+
 .dog1 {
   border-radius: 50%;
   border: 3px solid #3F8DA7;
@@ -53,13 +57,13 @@ margin: 5px 7px;
 }
 
 .bordered-text {
-border: 3px solid #3F8DA7;
-padding: 3px 5px;
-background-color: #FFFFFF;
-color: #3F8DA7;
-font-size: 12px;
-margin-top: 5px;
-margin-bottom: 7px;
+  border: 3px solid #3F8DA7;
+  padding: 3px 5px;
+  background-color: #FFFFFF;
+  color: #3F8DA7;
+  font-size: 12px;
+  margin-top: 5px;
+  margin-bottom: 7px;
 }
 
 .bottom-section {

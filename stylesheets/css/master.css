@@ -1,0 +1,111 @@
+* {
+  font-family: 'Raleway', sans-serif;
+}
+body {
+  margin: 6px 15px;
+}
+
+.little-doggo-icon {
+  width: 22px;
+}
+
+.nav-bar {
+border-top: 1px solid #7E8B8C;
+display: flex;
+justify-content: space-between;
+padding: 5px;
+background-color: #92E0E5;
+}
+.little-doggo-icon {
+  margin-left: 13px;
+}
+.nav-texts{
+  display: flex;
+  margin-right: 10px;
+  font-size: 12px
+}
+
+.nav-text {
+color: #FFFFFF;
+margin: 5px 7px;
+
+}
+
+.top-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(/images/park.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 14px;
+
+}
+
+.top-title {
+  font-size: 20px;
+}
+.dog1 {
+  border-radius: 50%;
+  border: 3px solid #3F8DA7;
+  width: 185px;
+  margin-bottom: 4px;
+}
+
+.bordered-text {
+border: 3px solid #3F8DA7;
+padding: 3px 5px;
+background-color: #FFFFFF;
+color: #3F8DA7;
+font-size: 12px;
+margin-top: 5px;
+margin-bottom: 7px;
+}
+
+.bottom-section {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 0px;
+}
+
+.bottom-section-text {
+  display: flex;
+  justify-content: center;
+  font-size: 12px;
+  padding-top: 7px;
+  line-height: 1;
+}
+
+.bottom-section-doggo {
+  border-radius: 50%;
+  border: 2px solid #3F8DA7;
+  width: 125px;
+  margin-top: 5px;
+}
+
+.doggo-profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.bottom-banner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #3F8DA7;
+  color: #FFFFFF;
+  font-size: 12px;
+  padding-top: 1px;
+
+}
+
+.banner-link {
+  text-decoration: underline;
+}
+
+.social-icon {
+  width: 30px;
+  padding: 15px;
+}
